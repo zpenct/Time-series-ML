@@ -40,5 +40,3 @@ Untuk menurunkan MAE, kamu dapat Mengatur Hyperparameter LSTM pada Time Series d
     - Tensorboard
 
 - Kamu dapat menggunakan fitur markdown/text cell untuk menjelaskan bagian code cell yang telah kamu buat pada interactive python notebook. Sehingga, notebook kamu lebih informatif.
-
-## Rating: 5/5
